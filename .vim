@@ -1,0 +1,1 @@
+#synctax on
